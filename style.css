@@ -1,1 +1,4 @@
-h1 {color:red;}
+h1 {text-align: center; color:rgb(248, 255, 59);}
+p {text-align: center}
+p.blocktext {margin-left: auto; margin-right: auto; width: 50em} <!--Центрирование блока -->
+img.displayed {display: block; margin-left: auto; margin-right: auto} <!--Центрирование изображения -->
